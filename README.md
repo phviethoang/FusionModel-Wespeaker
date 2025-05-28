@@ -2,7 +2,7 @@
 
 ## Hướng dẫn sử dụng
 - [x] Bước 1: Clone repo về rồi chạy lệnh `pip install wespeaker`
-- [x] Bước 2: Sửa các file trong folder `local` phụ thuộc vào link và dataset sử dụng
+- [x] Bước 2: Chuẩn bị dataset và các file bổ sung hỗ trợ training (Edit các file trong folder `local`)
 - [x] Bước 3: Chạy file `run.sh`
 
 ## Model CrossAttentionFusion
